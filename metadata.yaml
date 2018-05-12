@@ -1,0 +1,42 @@
+_repo: The-Works-of-John-GalsworthyAn-Index-of-the-Project-Gutenberg-Works-of-Galsworthy_28760
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28760-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: http://en.wikipedia.org/wiki/John_Galsworthy
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: List of Works by Genre & Title; Non-Fiction; Plays; Novels & Stories;
+  List of Works in Alphabetical Order; Beyond; A Bit O' Love; The Burning Spear; The
+  Country House; The Dark Flower; The Eldest Son; A Family Man; The First and Last;
+  Five Tales; The Forsyte Saga; The Foundations; The Sun; Fraternity; The Freelands;
+  The Fugitive; The Island Pharisees; Joy; Justice; The Little Dream; The Little Man;
+  Loyalties; The Mob; The Patrician; The Pigeon; Saint's Progress; The Silver Box;
+  The Skin Game; Strife; Censorship And Art; Concerning Letters; Concerning Life,
+  Part 2.; Concerning Life, Part 1.
+gutenberg_issued: '2009-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28760'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indexes'
+- !lcc 'PR'
+title: 'The Works of John Galsworthy
+
+  An Index of the Project Gutenberg Works of Galsworthy'
+url: http://www.gutenberg.org/ebooks/28760
